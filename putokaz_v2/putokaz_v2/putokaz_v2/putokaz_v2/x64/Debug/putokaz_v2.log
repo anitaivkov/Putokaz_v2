@@ -1,3 +1,0 @@
-﻿  main-menu.c
-C:\Users\student\Downloads\Putokaz_v2-main\Putokaz_v2-main\putokaz_v2\putokaz_v2\main-menu.c(93,4): warning C4013: 'free' undefined; assuming extern returning int
-  putokaz_v2.vcxproj -> C:\Users\student\Downloads\Putokaz_v2-main\Putokaz_v2-main\putokaz_v2\x64\Debug\putokaz_v2.exe

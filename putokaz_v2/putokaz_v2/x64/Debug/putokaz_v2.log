@@ -1,7 +1,0 @@
-﻿  destination.c
-  main-menu.c
-C:\Users\anita\Desktop\Faks_NOVO\1. GODINA\2. semestar\Programiranje 2\Projekt\putokaz_v2\putokaz_v2\main-menu.c(87,4): warning C4013: 'free' undefined; assuming extern returning int
-  main.c
-  user-input.c
-  Generating Code...
-  putokaz_v2.vcxproj -> C:\Users\anita\Desktop\Faks_NOVO\1. GODINA\2. semestar\Programiranje 2\Projekt\putokaz_v2\x64\Debug\putokaz_v2.exe
