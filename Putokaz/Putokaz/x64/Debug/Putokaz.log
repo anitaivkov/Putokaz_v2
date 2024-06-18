@@ -1,0 +1,8 @@
+﻿  destination.c
+  main-menu.c
+C:\Users\anita\Desktop\Faks_NOVO\1. GODINA\2. semestar\Programiranje 2\Projekt\Putokaz\Putokaz\main-menu.c(97,4): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\anita\Desktop\Faks_NOVO\1. GODINA\2. semestar\Programiranje 2\Projekt\Putokaz\Putokaz\main-menu.c(30,8): warning C4101: 'choice': unreferenced local variable
+  main.c
+  user-input.c
+  Generating Code...
+  Putokaz.vcxproj -> C:\Users\anita\Desktop\Faks_NOVO\1. GODINA\2. semestar\Programiranje 2\Projekt\Putokaz\x64\Debug\Putokaz.exe
