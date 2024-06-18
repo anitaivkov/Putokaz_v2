@@ -6,8 +6,8 @@ typedef enum {
     UPDATE_DEST,		//3. izbor
     PRINT_DEST,			//4. izbor
     DELETE_DEST,		//5. izbor
-    DELETE_FILE,
-    EXIT				//6. izbor
+    DELETE_FILE,        //6. izbor
+    EXIT				//7. izbor
 }menu_items_enum;
 
 typedef enum {
